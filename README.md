@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/Youssef Dardeer Mousa/Youssef Dardeer Mousa/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**youssef50011/youssef50011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="50">
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
+
+Happy Coding! 😊
+
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
+<i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/youssef-dardeer-mousa-6ab298221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
+
+</div>
+
+
+⭐ From [Youssef Dardeer](https://github.com/youssef50011)
