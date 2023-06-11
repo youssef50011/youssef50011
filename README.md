@@ -5,12 +5,12 @@
 # Hello, world! 👋
 
 #### You can find me on:
-[Linkedin](https://www.linkedin.com/in/soroush-chehresa) - [Stackoverflow](https://stackoverflow.com/users/9516173/soroush-chehresa) - [Medium](https://medium.com/@soroushchehresa) - [Dribbble](https://dribbble.com/soroushchehresa) - [Twitter](https://twitter.com/soroushchehresa) - [Gmail](mailto:s1996ch@gmail.com)
+[Linkedin]([https://www.linkedin.com/in/soroush-chehresa](https://www.linkedin.com/in/youssef-dardeer-mousa-6ab298221)) -  - [Gmail](mailto:youssef.dardeer.mousa@gmail.com)
 <br>
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true" />
 <br>
 <br>
-⭐️ From [soroushchehresa](https://github.com/soroushchehresa) 
+⭐️ From [Youssef Dardeer Mousa](https://github.com/youssef50011) 
 </div>
