@@ -5,7 +5,7 @@
 # Hello, world! 👋
 
 #### You can find me on:
-[Linkedin]((https://www.linkedin.com/in/youssef-dardeer-mousa-6ab298221))  - [Gmail](mailto:youssef.dardeer.mousa@gmail.com)
+[Linkedin](https://www.linkedin.com/in/youssef-dardeer-mousa-6ab298221)  - [Gmail](mailto:youssef.dardeer.mousa@gmail.com)
 <br>
 <br>
 <br>
