@@ -1,4 +1,4 @@
-<h3>Youssef Dardeer's github<h3>
+<h3 style="text-align:center">Youssef Dardeer's github<h3>
 <div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
