@@ -25,7 +25,8 @@
 <a href="mailto:Youssef.Dardeer.Mousa@gmail.com" target="_blank" style="text-decoration:none">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-
+<a href="mailto:Youssef.Dardeer.Mousa@outlook.com" target="_blank">
+<img src="https://img.shields.io/badge/Outlook-3776AB?style=for-the-badge&logo=Outlook&logoColor=white"></a>&nbsp;&nbsp;
 <a href="www.linkedin.com/in/youssef-dardeer-mousa-6ab298221" target="_blank" style="text-decoration:none">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
