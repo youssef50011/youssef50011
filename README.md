@@ -1,6 +1,6 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Youssef+Dardeer;Software+Engineer;Backend+Developer;NodeJS+Developer;%40iahmedelbayaa">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Youssef+Dardeer;Software+Engineer;ReactJS+Developer;NodeJS+Developer;%40youssefDardeerMousa">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=iahmedelbayaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
@@ -22,11 +22,11 @@
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:elbayaaahmed845@gmail.com" target="_blank">
+<a href="mailto:Youssef.Dardeer.Mousa@gmail.com" target="_blank" style="text-decoration:none">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/iahmedelbayaa" target="_blank">
+<a href="www.linkedin.com/in/youssef-dardeer-mousa-6ab298221" target="_blank" style="text-decoration:none">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
@@ -36,11 +36,11 @@
 
 <!-- Programming Languages -->
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
-<a href="https://www.python.org/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
 
 <a href="https://www.cplusplus.com/" target="_blank">
@@ -97,14 +97,14 @@
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=iahmedelbayaa&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=youssefDardeerMousa&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=iahmedelbayaa&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=youssefDardeerMousa&show_icons=true&theme=github_dark">
 </p>
 <hr>
 <br>
@@ -112,11 +112,11 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iahmedelbayaa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=youssefDardeerMousa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
 <hr>
 <br>
 
 ------
-Credit: [Ahmad Elbayaa](https://github.com/iahmedelbayaa)
+Credit: [youssefDardeerMousa](https://github.com/youssefDardeerMousa)
