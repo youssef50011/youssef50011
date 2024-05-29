@@ -104,14 +104,7 @@
 
 
 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=youssefDardeerMousa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
 
-<hr>
-<br>
 
 ------
 Credit: [youssefDardeerMousa](https://github.com/youssefDardeerMousa)
